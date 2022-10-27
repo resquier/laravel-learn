@@ -1,4 +1,5 @@
 .DS_Store
+Thumbs.db
 sftp-config.json
 *.sublime-project
 *.sublime-workspace
